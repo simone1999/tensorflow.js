@@ -1,1 +1,1 @@
-document.write("es hat geklappt!!!!");
+alert("Hello! I am an alert box!!");
